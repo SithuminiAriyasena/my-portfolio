@@ -137,11 +137,11 @@ function Projects() {
       ),
       link: "#", // Replace with actual project link
       images: [
-        "/bloom1.png",
-        "/bloom2.png",
-        "/bloom3.png",
-        "/bloom4.png",
-        "/bloom5.png",
+        "./bloom1.png",
+        "./bloom2.png",
+        "./bloom3.png",
+        "./bloom4.png",
+        "./bloom5.png",
       ],
     },
     {
