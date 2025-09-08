@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+body {
+  background: #FAEBD7;
+  color: #222222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+}
+
+.section {
+  background: #f9f9f9;
+  color: #222222;
+  border-radius: 1rem;
+  box-shadow: 0 2px 16px 0 rgba(0,0,0,0.06);
+}
+
+a, button {
+  color: #222222;
+}
+
+.card, .project-card {
+  background: #fff;
+  color: #222222;
+  border: 1px solid #eee;
+}
