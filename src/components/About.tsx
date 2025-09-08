@@ -78,9 +78,11 @@ function About() {
       <div className="bg-white/70 backdrop-blur-sm rounded-3xl shadow-2xl p-8 md:p-12 border border-white/20">
         <div className="text-center mb-12">
           <p className="text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto">
-            I'm a dedicated computer science student with a passion for creating
-            innovative web solutions. My journey in technology is driven by
-            curiosity and a desire to build meaningful digital experiences.
+            I’m a 2nd-year BSc (Hons) in Information Systems undergraduate at Sabaragamuwa University of Sri Lanka, with a growing passion for building impactful digital solutions. My academic journey has equipped me with a solid foundation in systems analysis, database management, and software development principles.
+
+I aspire to become a versatile Full-Stack Developer and QA Engineer, blending technical expertise with business understanding to design solutions that are not only efficient and reliable but also strategically valuable. I enjoy exploring both front-end and back-end technologies, testing practices, and innovative problem-solving approaches that contribute to seamless user experiences.
+
+Driven, adaptable, and continuously learning, I’m committed to refining my skills while contributing to projects that bridge the gap between technology and business needs.
           </p>
         </div>
 
